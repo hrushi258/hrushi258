@@ -1,3 +1,4 @@
+![Picsart_23-04-18_02-22-15-151](https://github.com/hrushi258/hrushi258/assets/123484197/1b61e373-166d-4aed-90f5-deceec7020ef)
 <p>
   <h1 align="center"><b>Hello there, I'm Hrushikesh 👋</b></h1>
 </p>
