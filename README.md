@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <img align="center" alt="Visual Studio Code" width="60%" 
-     src="https://github-readme-stats.vercel.app/api?username=hrushi258
-     &title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+         src="https://github-readme-stats.vercel.app/api?username=hrushi25" />
 <br>
   
 </p>
